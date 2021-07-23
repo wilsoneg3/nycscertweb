@@ -14,7 +14,8 @@
 * [Nim Game](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#1/Nim.java)
 ## Data Structrues
 * Data Structuers picked up where Java left off in terms of having me feel like I was learning a totally new language and way of thinking.  I have thoroughly enjoyed the chance to take a peek at some of the structures and strategies that programmers use to organize, traverse, and analyze data.  Again I have been reliant on the brilliance and kindness of my peers and professors to help me get up to speed!
-
+* [Lists](https://github.com/hunter-teacher-cert/work_csci70900-wilsoneg3/tree/master/DS/Lists)
+* [Maze](* [Lists](https://github.com/hunter-teacher-cert/work_csci70900-wilsoneg3/tree/master/DS/Lists))
 
 ## Methods I
 * As a computer science department of 1 at my school, this has been perhaps the most valuable and relevant class towards actually teaching computer science.  The learning has continued here as I have begun my adventure learning Markdown langauge in addition to strategizing teaching methods with my friends.
