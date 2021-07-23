@@ -20,7 +20,7 @@
 * As a computer science department of 1 at my school, this has been perhaps the most valuable and relevant class towards actually teaching computer science.  The learning has continued here as I have begun my adventure learning Markdown langauge in addition to strategizing teaching methods with my friends.
 * [Sample Lesson](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#meth1/01_Lesson.data)
 * [Unplugged Activity for Linked Lists](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#meth1/06_unplugged)
-* [Sample Net Logo](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#meth1/05_netlogo.md)
+* [Sample Net Logo Lesson](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#meth1/05_netlogo.md)
 
 
 
