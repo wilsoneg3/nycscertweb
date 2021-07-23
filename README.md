@@ -9,6 +9,7 @@
 * Pre-pandini I started and coached a bsketball team and had the privilege of getting absolutely slapped in the [2018 Multiple Pathways league Finals](https://www.psal.org/games/game-detail.aspx#049/371941) at Queens College :,-( [<img src="https://ichef.bbc.co.uk/images/ic/640x360/p04ktjn2.jpg">](https://ichef.bbc.co.uk/images/ic/640x360/p04ktjn2.jpg)
 
 ## Programming in Java
+** This class was one of the most challenging things I have ever done in my life.  Throughout most of my academic career I have enjoyed being proficient at the classes that I was taking and near the top of my class.  Programming in Java was a MAJOR exception. For the first time in a long time I felt like I was a total novice and incapable of bringing much to my groupwork beyond enthusiasm and curiosity.  Thankfully, in addition to being absolutely brilliant, my group peers were always acommodating and patient with me as they helped me learn the material.  This experience has been incredibly fulfilling for me as I have the chance to experience what many of my students must feel in my class sometimes! 
 * [Mancala Game](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#2/Mancala.java)
 * [Nim Game](https://replit.com/@wilsoneg3/workcsci70900-wilsoneg3#1/Nim.java)
 ## Data Structrues
